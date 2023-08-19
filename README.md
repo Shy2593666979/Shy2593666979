@@ -1,11 +1,11 @@
 ### Hi vistor 👋
-🔭 I’m currently working on C++、QT
-🌱 I’m currently learning Docker、C++
-🤔 I’m looking for help with Cloud computing
-💬 Ask me about C++、QT、Cloud computing
-📫 How to reach me: vx：shy2593666979
-😄 Pronouns: Hello！
-⚡ Fun fact: make friends go to study！
+- 🔭 I’m currently working on C++、QT
+- 🌱 I’m currently learning Docker、C++
+- 🤔 I’m looking for help with Cloud computing
+- 💬 Ask me about C++、QT、Cloud computing
+- 📫 How to reach me: vx：shy2593666979
+- 😄 Pronouns: Hello！
+- ⚡ Fun fact: make friends go to study！
 
 <!--
 **Shy2593666979/Shy2593666979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
