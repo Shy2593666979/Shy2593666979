@@ -1,11 +1,3 @@
-# Hi visitors 👋
-- 🔭 I’m currently working on C++、QT
-- 🌱 I’m currently learning Docker、C++
-- 🤔 I’m looking for help with Cloud computing
-- 💬 Ask me about C++、QT、Cloud computing
-- 📫 How to reach me: vx：shy2593666979
-- 😄 Pronouns: Hello！
-- ⚡ Fun fact: make friends go to study！
 
 <!--
 **Shy2593666979/Shy2593666979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://space.bilibili.com/1498413378"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Shy2593666979&right_color=red" />
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shy2593666979&show_icons=true&theme=tokyonight)
 ![](https://activity-graph.herokuapp.com/graph?username=Shy2593666979&theme=material-palenight)
 ![](https://stats.justsong.cn/api/csdn?id=m0_63743577&theme=dark)
