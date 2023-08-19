@@ -21,7 +21,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 🎉 Welcome to Tian ming Guang's Github Homepage!
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=C++&color=blue"/>
+<a href="https://blog.csdn.net/m0_63743577"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="https://space.bilibili.com/1498413378"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Shy2593666979&right_color=red" />
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shy2593666979&show_icons=true&theme=tokyonight)
 ![](https://activity-graph.herokuapp.com/graph?username=Shy2593666979&theme=material-palenight)
 ![](https://stats.justsong.cn/api/csdn?id=m0_63743577&theme=dark)
