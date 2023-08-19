@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shy2593666979&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shy2593666979)](https://github.com/Shy2593666979/github-readme-stats)
-![](https://activity-graph.herokuapp.com/graph?username=Shy2593666979&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=Shy2593666979&theme=material-palenight)
