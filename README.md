@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shy2593666979&show_icons=true&theme=tokyonight)
-
+[![](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shy2593666979)](https://github.com/Shy2593666979/github-readme-stats)
