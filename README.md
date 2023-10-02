@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?label=Program&message=C++&color=blue"/>
 <a href="https://blog.csdn.net/m0_63743577?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 <a href="https://space.bilibili.com/1498413378"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Shy2593666979&right_color=red" />
+
 </p>
 
 ![Ming Guang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shy2593666979&show_icons=true&theme=tokyonight)
