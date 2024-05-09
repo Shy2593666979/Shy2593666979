@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 ![Ming Guang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shy2593666979&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shy2593666979&theme=dark&layout=compact)
 ![](https://activity-graph.herokuapp.com/graph?username=Shy2593666979&theme=github)
+![](https://stats.justsong.cn/api/leetcode?username=ku-mu-feng-chun-i-b&cn=true)
 ![](https://stats.justsong.cn/api/csdn?id=m0_63743577&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1498413378&theme=dark)
